@@ -1,0 +1,9 @@
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage\bin\Debug\netstandard2.0\WorkControl.Storage.deps.json
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage\bin\Debug\netstandard2.0\WorkControl.Storage.dll
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage\bin\Debug\netstandard2.0\WorkControl.Storage.pdb
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage\obj\Debug\netstandard2.0\WorkControl.Storage.csprojAssemblyReference.cache
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage\obj\Debug\netstandard2.0\WorkControl.Storage.AssemblyInfoInputs.cache
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage\obj\Debug\netstandard2.0\WorkControl.Storage.AssemblyInfo.cs
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage\obj\Debug\netstandard2.0\WorkControl.Storage.csproj.CoreCompileInputs.cache
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage\obj\Debug\netstandard2.0\WorkControl.Storage.dll
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage\obj\Debug\netstandard2.0\WorkControl.Storage.pdb

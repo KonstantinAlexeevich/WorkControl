@@ -1,0 +1,15 @@
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite.Migrations\bin\Debug\net5.0\WorkControl.Storage.Sqlite.Migrations.deps.json
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite.Migrations\bin\Debug\net5.0\WorkControl.Storage.Sqlite.Migrations.dll
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite.Migrations\bin\Debug\net5.0\ref\WorkControl.Storage.Sqlite.Migrations.dll
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite.Migrations\bin\Debug\net5.0\WorkControl.Storage.Sqlite.Migrations.pdb
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite.Migrations\bin\Debug\net5.0\WorkControl.Storage.dll
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite.Migrations\bin\Debug\net5.0\WorkControl.Storage.pdb
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite.Migrations\obj\Debug\net5.0\WorkControl.Storage.Sqlite.Migrations.csprojAssemblyReference.cache
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite.Migrations\obj\Debug\net5.0\WorkControl.Storage.Sqlite.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite.Migrations\obj\Debug\net5.0\WorkControl.Storage.Sqlite.Migrations.AssemblyInfoInputs.cache
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite.Migrations\obj\Debug\net5.0\WorkControl.Storage.Sqlite.Migrations.AssemblyInfo.cs
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite.Migrations\obj\Debug\net5.0\WorkControl.Storage.Sqlite.Migrations.csproj.CoreCompileInputs.cache
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite.Migrations\obj\Debug\net5.0\WorkControl.Storage.Sqlite.Migrations.csproj.CopyComplete
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite.Migrations\obj\Debug\net5.0\WorkControl.Storage.Sqlite.Migrations.dll
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite.Migrations\obj\Debug\net5.0\ref\WorkControl.Storage.Sqlite.Migrations.dll
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite.Migrations\obj\Debug\net5.0\WorkControl.Storage.Sqlite.Migrations.pdb

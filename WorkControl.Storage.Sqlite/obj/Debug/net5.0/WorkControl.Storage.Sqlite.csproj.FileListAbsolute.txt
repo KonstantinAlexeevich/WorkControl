@@ -1,0 +1,15 @@
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite\bin\Debug\net5.0\WorkControl.Storage.Sqlite.deps.json
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite\bin\Debug\net5.0\WorkControl.Storage.Sqlite.dll
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite\bin\Debug\net5.0\ref\WorkControl.Storage.Sqlite.dll
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite\bin\Debug\net5.0\WorkControl.Storage.Sqlite.pdb
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite\bin\Debug\net5.0\WorkControl.Storage.dll
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite\bin\Debug\net5.0\WorkControl.Storage.pdb
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite\obj\Debug\net5.0\WorkControl.Storage.Sqlite.csprojAssemblyReference.cache
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite\obj\Debug\net5.0\WorkControl.Storage.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite\obj\Debug\net5.0\WorkControl.Storage.Sqlite.AssemblyInfoInputs.cache
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite\obj\Debug\net5.0\WorkControl.Storage.Sqlite.AssemblyInfo.cs
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite\obj\Debug\net5.0\WorkControl.Storage.Sqlite.csproj.CoreCompileInputs.cache
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite\obj\Debug\net5.0\WorkControl.Storage.Sqlite.csproj.CopyComplete
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite\obj\Debug\net5.0\WorkControl.Storage.Sqlite.dll
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite\obj\Debug\net5.0\ref\WorkControl.Storage.Sqlite.dll
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.Sqlite\obj\Debug\net5.0\WorkControl.Storage.Sqlite.pdb

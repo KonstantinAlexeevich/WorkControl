@@ -1,0 +1,22 @@
+﻿@page "/counter"
+
+<h1>Counter</h1>
+
+<p>Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+@code {
+
+    [Inject]
+    public ICommandBus CommandBus { get; set; }
+
+    private int currentCount;
+
+    private async Task IncrementCount()
+    {
+        await CommandBus.PublishAsync(new RenameCommand(new WorkId(1), "Rename"), CancellationToken.None);
+        currentCount++;
+    }
+
+}

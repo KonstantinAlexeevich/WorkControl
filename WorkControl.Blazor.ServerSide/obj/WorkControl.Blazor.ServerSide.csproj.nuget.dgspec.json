@@ -1,0 +1,387 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Blazor.ServerSide\\WorkControl.Blazor.ServerSide.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Blazor.ServerSide\\WorkControl.Blazor.ServerSide.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Blazor.ServerSide\\WorkControl.Blazor.ServerSide.csproj",
+        "projectName": "WorkControl.Blazor.ServerSide",
+        "projectPath": "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Blazor.ServerSide\\WorkControl.Blazor.ServerSide.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Blazor.ServerSide\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://progetw.svsu.int/nuget/CommonNuget/": {},
+          "http://progetw.svsu.int/nuget/VendorNuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Domain\\WorkControl.Domain.csproj": {
+                "projectPath": "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Domain\\WorkControl.Domain.csproj"
+              },
+              "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Storage.PostgreSql\\WorkControl.Storage.PostgreSql.csproj": {
+                "projectPath": "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Storage.PostgreSql\\WorkControl.Storage.PostgreSql.csproj"
+              },
+              "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Storage.Sqlite\\WorkControl.Storage.Sqlite.csproj": {
+                "projectPath": "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Storage.Sqlite\\WorkControl.Storage.Sqlite.csproj"
+              },
+              "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Storage\\WorkControl.Storage.csproj": {
+                "projectPath": "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Storage\\WorkControl.Storage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "EventFlow": {
+              "target": "Package",
+              "version": "[0.81.4483, )"
+            },
+            "EventFlow.AspNetCore": {
+              "target": "Package",
+              "version": "[0.81.4483, )"
+            },
+            "EventFlow.DependencyInjection": {
+              "target": "Package",
+              "version": "[0.81.4483, )"
+            },
+            "EventFlow.PostgreSql": {
+              "target": "Package",
+              "version": "[0.81.4483, )"
+            },
+            "EventFlow.SQLite": {
+              "target": "Package",
+              "version": "[0.81.4483, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Domain\\WorkControl.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Domain\\WorkControl.Domain.csproj",
+        "projectName": "WorkControl.Domain",
+        "projectPath": "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Domain\\WorkControl.Domain.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://progetw.svsu.int/nuget/CommonNuget/": {},
+          "http://progetw.svsu.int/nuget/VendorNuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "EventFlow": {
+              "target": "Package",
+              "version": "[0.81.4483, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Storage.PostgreSql\\WorkControl.Storage.PostgreSql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Storage.PostgreSql\\WorkControl.Storage.PostgreSql.csproj",
+        "projectName": "WorkControl.Storage.PostgreSql",
+        "projectPath": "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Storage.PostgreSql\\WorkControl.Storage.PostgreSql.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Storage.PostgreSql\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://progetw.svsu.int/nuget/CommonNuget/": {},
+          "http://progetw.svsu.int/nuget/VendorNuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Storage\\WorkControl.Storage.csproj": {
+                "projectPath": "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Storage\\WorkControl.Storage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Storage.Sqlite\\WorkControl.Storage.Sqlite.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Storage.Sqlite\\WorkControl.Storage.Sqlite.csproj",
+        "projectName": "WorkControl.Storage.Sqlite",
+        "projectPath": "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Storage.Sqlite\\WorkControl.Storage.Sqlite.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Storage.Sqlite\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://progetw.svsu.int/nuget/CommonNuget/": {},
+          "http://progetw.svsu.int/nuget/VendorNuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Storage\\WorkControl.Storage.csproj": {
+                "projectPath": "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Storage\\WorkControl.Storage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Storage\\WorkControl.Storage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Storage\\WorkControl.Storage.csproj",
+        "projectName": "WorkControl.Storage",
+        "projectPath": "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Storage\\WorkControl.Storage.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Storage\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://progetw.svsu.int/nuget/CommonNuget/": {},
+          "http://progetw.svsu.int/nuget/VendorNuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

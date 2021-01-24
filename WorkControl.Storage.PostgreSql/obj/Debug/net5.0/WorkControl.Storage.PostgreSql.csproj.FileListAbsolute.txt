@@ -1,0 +1,15 @@
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.PostgreSql\bin\Debug\net5.0\WorkControl.Storage.PostgreSql.deps.json
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.PostgreSql\bin\Debug\net5.0\WorkControl.Storage.PostgreSql.dll
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.PostgreSql\bin\Debug\net5.0\ref\WorkControl.Storage.PostgreSql.dll
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.PostgreSql\bin\Debug\net5.0\WorkControl.Storage.PostgreSql.pdb
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.PostgreSql\bin\Debug\net5.0\WorkControl.Storage.dll
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.PostgreSql\bin\Debug\net5.0\WorkControl.Storage.pdb
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.PostgreSql\obj\Debug\net5.0\WorkControl.Storage.PostgreSql.csprojAssemblyReference.cache
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.PostgreSql\obj\Debug\net5.0\WorkControl.Storage.PostgreSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.PostgreSql\obj\Debug\net5.0\WorkControl.Storage.PostgreSql.AssemblyInfoInputs.cache
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.PostgreSql\obj\Debug\net5.0\WorkControl.Storage.PostgreSql.AssemblyInfo.cs
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.PostgreSql\obj\Debug\net5.0\WorkControl.Storage.PostgreSql.csproj.CoreCompileInputs.cache
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.PostgreSql\obj\Debug\net5.0\WorkControl.Storage.PostgreSql.csproj.CopyComplete
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.PostgreSql\obj\Debug\net5.0\WorkControl.Storage.PostgreSql.dll
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.PostgreSql\obj\Debug\net5.0\ref\WorkControl.Storage.PostgreSql.dll
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Storage.PostgreSql\obj\Debug\net5.0\WorkControl.Storage.PostgreSql.pdb

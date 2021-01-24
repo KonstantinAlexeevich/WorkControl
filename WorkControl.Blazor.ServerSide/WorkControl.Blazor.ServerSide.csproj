@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>aspnet-WorkControl.Blazor.ServerSide-01802859-FC27-4AC4-92DD-AC41F7DF6E5D</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.1.0" />
+    <PackageReference Include="EventFlow" Version="0.81.4483" />
+    <PackageReference Include="EventFlow.AspNetCore" Version="0.81.4483" />
+    <PackageReference Include="EventFlow.DependencyInjection" Version="0.81.4483" />
+    <PackageReference Include="EventFlow.PostgreSql" Version="0.81.4483" />
+    <PackageReference Include="EventFlow.SQLite" Version="0.81.4483" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="5.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WorkControl.Domain\WorkControl.Domain.csproj" />
+    <ProjectReference Include="..\WorkControl.Storage.PostgreSql\WorkControl.Storage.PostgreSql.csproj" />
+    <ProjectReference Include="..\WorkControl.Storage.Sqlite\WorkControl.Storage.Sqlite.csproj" />
+    <ProjectReference Include="..\WorkControl.Storage\WorkControl.Storage.csproj" />
+  </ItemGroup>
+
+</Project>

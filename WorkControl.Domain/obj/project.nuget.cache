@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pq/EIdYqfcQPUVzb6alHp0DDBaqBVNOCJ9jEvDlvEhIXvCM9IUA0iLK/CEdAZfTOSwghHKI4mB/gWPTNWXVfpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\KonstantinAlexeevich\\WorkControl\\WorkControl.Domain\\WorkControl.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\eventflow\\0.81.4483\\eventflow.0.81.4483.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.csharp\\4.4.0\\microsoft.csharp.4.4.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

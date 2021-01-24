@@ -1,0 +1,1 @@
+﻿dotnet ef migrations --startup-project WorkControl.Blazor.ServerSide --project WorkControl.Storage.Sqlite add [Name]

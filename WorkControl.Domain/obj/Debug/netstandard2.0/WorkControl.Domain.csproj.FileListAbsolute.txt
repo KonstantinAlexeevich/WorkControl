@@ -1,0 +1,9 @@
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Domain\bin\Debug\netstandard2.0\WorkControl.Domain.deps.json
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Domain\bin\Debug\netstandard2.0\WorkControl.Domain.dll
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Domain\bin\Debug\netstandard2.0\WorkControl.Domain.pdb
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Domain\obj\Debug\netstandard2.0\WorkControl.Domain.csprojAssemblyReference.cache
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Domain\obj\Debug\netstandard2.0\WorkControl.Domain.AssemblyInfoInputs.cache
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Domain\obj\Debug\netstandard2.0\WorkControl.Domain.AssemblyInfo.cs
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Domain\obj\Debug\netstandard2.0\WorkControl.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Domain\obj\Debug\netstandard2.0\WorkControl.Domain.dll
+C:\Projects\KonstantinAlexeevich\WorkControl\WorkControl.Domain\obj\Debug\netstandard2.0\WorkControl.Domain.pdb
